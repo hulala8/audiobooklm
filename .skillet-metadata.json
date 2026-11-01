@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "skill": {
+    "id": "54c0531e-ec28-4152-bf8a-a90d4b84c9ee",
+    "name": "audiobooklm",
+    "description": "提供有声书创作与音频能力（ABS 读写、音效/音频检索、二创、音色推荐、章节角色分析等），通过 HTTP Streamable MCP 调用。",
+    "category": "infra工具",
+    "source_type": "gitlab",
+    "source_url": "https://gitlab.ximalaya.com/skillet-hub/audiobooklm.git",
+    "owner": {
+      "email": "chengwei.tian@ximalaya.com",
+      "name": "田承威"
+    }
+  },
+  "version": {
+    "id": "fde9cd09-f47d-4ade-9ce2-3085b9132df2",
+    "version": "0.0.1",
+    "changelog": null,
+    "gitlab_branch": "main",
+    "commit_id": "21670699ae6bf994c49337cc9ebc66868ef93cde",
+    "created_at": "2026-04-01T18:37:02+00:00",
+    "active": true,
+    "examples": []
+  },
+  "dependencies": [],
+  "generated_at": "2026-05-11T06:19:55.610737+00:00",
+  "distribution": "download"
+}
